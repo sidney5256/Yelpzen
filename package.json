@@ -1,0 +1,29 @@
+{
+  "name": "yelpzen",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mapbox/polyline": "^0.2.0",
+    "leaflet": "^1.1.0",
+    "leaflet-css": "^0.1.0",
+    "leaflet-extra-markers": "^1.0.6",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-autosuggest": "^9.3.2",
+    "react-dom": "^15.6.1",
+    "react-leaflet": "^1.4.1",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.2",
+    "react-scripts": "1.0.10",
+    "redux": "^3.7.2",
+    "semantic-ui-css": "^2.2.11",
+    "semantic-ui-react": "^0.71.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
